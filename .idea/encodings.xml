@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supergo-admin-ui/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supergo-base-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supergo-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supergo-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supergo-manager-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supergo-manager-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supergo-manager-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supergo-mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supergo-mq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supergo-page/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supergo-pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supergo-portal-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supergo-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supergo-sso-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/supergo-zuul/src/main/java" charset="UTF-8" />
+  </component>
+</project>

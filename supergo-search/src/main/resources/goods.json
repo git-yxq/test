@@ -1,0 +1,105 @@
+{
+"properties": {
+"goods_name": {
+"type": "text",
+"analyzer": "ik_smart",
+"search_analyzer": "ik_smart",
+"fields": {
+"keyword": {
+"ignore_above": 256,
+"type": "keyword"
+}
+}
+},
+"cname1": {
+"type": "keyword",
+"fields": {
+"keyword": {
+"ignore_above": 256,
+"type": "keyword"
+}
+}
+},
+"brand_name": {
+"type": "keyword",
+"fields": {
+"keyword": {
+"ignore_above": 256,
+"type": "keyword"
+}
+}
+},
+"cname3": {
+"type": "keyword",
+"fields": {
+"keyword": {
+"ignore_above": 256,
+"type": "keyword"
+}
+}
+},
+"brand_id": {
+"type": "long"
+},
+"cname2": {
+"type": "keyword",
+"fields": {
+"keyword": {
+"ignore_above": 256,
+"type": "keyword"
+}
+}
+},
+"category1_id": {
+"type": "long"
+},
+"price": {
+"type": "float"
+},
+"small_pic": {
+"type": "keyword",
+"fields": {
+"keyword": {
+"ignore_above": 256,
+"type": "keyword"
+}
+}
+},
+"nick_name": {
+"type": "keyword",
+"fields": {
+"keyword": {
+"ignore_above": 256,
+"type": "keyword"
+}
+}
+},
+"_class": {
+"type": "text",
+"fields": {
+"keyword": {
+"ignore_above": 256,
+"type": "keyword"
+}
+}
+},
+"id": {
+"type": "long"
+},
+"category3_id": {
+"type": "long"
+},
+"category2_id": {
+"type": "long"
+},
+"seller_id": {
+"type": "keyword",
+"fields": {
+"keyword": {
+"ignore_above": 256,
+"type": "keyword"
+}
+}
+}
+}
+}

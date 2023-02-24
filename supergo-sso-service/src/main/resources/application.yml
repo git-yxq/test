@@ -1,0 +1,15 @@
+server:
+  port: 9097
+spring:
+  application:
+    name: supergo-sso
+  datasource:
+    url: jdbc:mysql://localhost:3306/supergo?useUnicode=true&characterEnco88ding=utf8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 1234
+    driver-class-name: com.mysql.jdbc.Driver #sql驱动
+jwt:
+  config:
+    key: kaikeba
+    #单位：秒
+    ttl: 3600

@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    host: 127.0.0.1 # 指定消息队列服务器地址
+    port: 5672 # 指定端口号
+    username: guest
+    password: guest

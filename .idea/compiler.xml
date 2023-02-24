@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="supergo-manager-service" />
+        <module name="super-zuul" />
+        <module name="supergo-mq" />
+        <module name="supergo-manager-web" />
+        <module name="supergo-manager-feign" />
+        <module name="supergo-pojo" />
+        <module name="supergo-eureka" />
+        <module name="supergo-sso-service" />
+        <module name="supergo-portal-web" />
+        <module name="supergo-common" />
+        <module name="supergo-mapper" />
+        <module name="supergo-page" />
+        <module name="supergo-search" />
+        <module name="supergo-admin-ui" />
+        <module name="supergo-zuul" />
+        <module name="supergo-base-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="supergo-manager" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="super-zuul" options="-parameters" />
+      <module name="supergo-admin-ui" options="-parameters" />
+      <module name="supergo-base-service" options="-parameters" />
+      <module name="supergo-common" options="-parameters" />
+      <module name="supergo-eureka" options="-parameters" />
+      <module name="supergo-manager" options="-parameters" />
+      <module name="supergo-manager-feign" options="-parameters" />
+      <module name="supergo-manager-service" options="-parameters" />
+      <module name="supergo-manager-web" options="-parameters" />
+      <module name="supergo-mapper" options="-parameters" />
+      <module name="supergo-mq" options="-parameters" />
+      <module name="supergo-page" options="-parameters" />
+      <module name="supergo-pojo" options="-parameters" />
+      <module name="supergo-portal-web" options="-parameters" />
+      <module name="supergo-search" options="-parameters" />
+      <module name="supergo-sso-service" options="-parameters" />
+      <module name="supergo-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

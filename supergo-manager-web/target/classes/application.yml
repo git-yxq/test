@@ -1,0 +1,18 @@
+server:
+  port: 9093
+spring:
+  application:
+    name: supergo-manager-web
+  servlet:
+    multipart:
+      max-file-size: 5MB
+management:
+  endpoint:
+    shutdown:
+      enabled: true #开启端点
+    health:
+      show-details: always
+  endpoints:
+    web:
+      exposure:
+        include: "*"
