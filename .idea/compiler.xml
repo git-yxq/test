@@ -17,10 +17,10 @@
         <module name="supergo-portal-web" />
         <module name="supergo-common" />
         <module name="supergo-mapper" />
-        <module name="supergo-page" />
+        <module name="supergo-zuul" />
         <module name="supergo-search" />
         <module name="supergo-admin-ui" />
-        <module name="supergo-zuul" />
+        <module name="supergo-page" />
         <module name="supergo-base-service" />
       </profile>
     </annotationProcessing>
